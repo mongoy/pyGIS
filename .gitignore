@@ -4,7 +4,7 @@
 /LES_6/data/
 /LES_6/img/
 /LES_5/datasets/
-/LES_7/data/
+#/LES_7/data/
 /INPUT/
 
 # Created by https://www.gitignore.io/api/linux,pycharm,python
